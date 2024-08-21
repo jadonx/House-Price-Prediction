@@ -6,18 +6,18 @@ Data: https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 # Notes
 
-## Reading Data
+### Reading Data
 ```Python
 data = pd.read_csv("data.csv")
 ```
 
-## Cleaning Data
+### Cleaning Data
 ```Python
 # Dropping Null Values
 data.dropna(inplace=True)
 ```
 
-## Splitting Data (80% Train 20% Test)
+### Splitting Data (80% Train 20% Test)
 ```Python
 from sklearn.model_selection import train_test_split
 
