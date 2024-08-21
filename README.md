@@ -14,8 +14,6 @@ Data: https://www.kaggle.com/datasets/camnugent/california-housing-prices
     data.dropna(inplace=True)
 
 **Splitting Data (80% Train 20% Test)**
-
-
     from sklearn.model_selection import train_test_split
 
 **Splitting x and y**
