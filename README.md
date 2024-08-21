@@ -2,6 +2,7 @@
 House Price Prediction Model with Machine Learning w/ Yanis
 
 Source: https://www.youtube.com/watch?v=Wqmtf9SA_kk&t=1081s
+
 Data: https://www.kaggle.com/datasets/camnugent/california-housing-prices
 
 # Notes
