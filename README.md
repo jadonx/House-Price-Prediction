@@ -1,5 +1,4 @@
 # House-Price-Prediction
-House Price Prediction Model with Machine Learning
-first edit
+House Price Prediction Model with Machine Learning w/ Yanis
 
-hi guys, i am sigma, but not jadon, and not yanis
+Source: https://www.youtube.com/watch?v=Wqmtf9SA_kk&t=1081s
